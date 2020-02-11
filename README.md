@@ -20,3 +20,5 @@ $ yarn generate
 ```
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+
+Al usar Nuxt, solo la primera carga se carga del lado del servidor, a partir de alli cualquier ruteo o cambio se ejecuta del lado del cliente
